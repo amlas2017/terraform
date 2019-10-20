@@ -6,8 +6,8 @@ variable "aws_region" { default = "eu-west-3" } # Paris
  # AWS SDK auth
 provider "aws" {
     region = "${var.aws_region}"
-  	access_key = "AKIA54MRT3Y2ZGFDOBVH"
-	secret_key = "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"
+  	access_key = "##########################"
+	secret_key = "**************************"
 }
 
  # SSH keys #
