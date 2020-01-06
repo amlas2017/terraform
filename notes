@@ -1,0 +1,2 @@
+# State
+Un state est un snapshot de votre infrastructure depuis la dernière fois que vous avez exécuté la commande terraform apply.
